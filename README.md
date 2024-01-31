@@ -1,5 +1,5 @@
 # Hi there, I'm Annie 👋
-I'm an cs undergrad at the University of Waterloo...
+I'm a cs undergrad at the University of Waterloo...
 ### About me
 - 🌱 Currently learning: Flutter & React
 - 🔭 I’m currently working on tech outreach via @Project Tech Careers
