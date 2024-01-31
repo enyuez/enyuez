@@ -1,6 +1,6 @@
 # Hi there, I'm Annie 👋
-I'm an undergrad cs student at the University of Waterloo...
+I'm an cs undergrad at the University of Waterloo...
 ### About me
-- 🌱 Currently learning: Node.js and C++
-- 🔭 I’m currently working on tech outreach via @Project Tech Conferences
+- 🌱 Currently learning: Flutter & React
+- 🔭 I’m currently working on tech outreach via @Project Tech Careers
 - 📫 How to reach me: a89zhang@uwaterloo.ca
